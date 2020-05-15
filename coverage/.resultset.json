@@ -355,7 +355,7 @@
           1,
           1,
           null,
-          0,
+          1,
           null,
           0,
           0,
@@ -373,8 +373,30 @@
           null,
           null
         ]
+      },
+      "/Users/dannyramos/turing/2module/make_it_work/app/controllers/projects_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null
+        ]
+      },
+      "/Users/dannyramos/turing/2module/make_it_work/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1589560758
+    "timestamp": 1589561637
   }
 }
