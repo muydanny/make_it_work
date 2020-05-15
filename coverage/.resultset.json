@@ -241,7 +241,8 @@
       "/Users/dannyramos/turing/2module/make_it_work/config/routes.rb": {
         "lines": [
           1,
-          null,
+          1,
+          1,
           null
         ]
       },
@@ -282,7 +283,8 @@
       "/Users/dannyramos/turing/2module/make_it_work/app/models/contestant_project.rb": {
         "lines": [
           1,
-          null,
+          1,
+          1,
           null
         ]
       },
@@ -308,6 +310,8 @@
       },
       "/Users/dannyramos/turing/2module/make_it_work/app/models/contestant.rb": {
         "lines": [
+          1,
+          1,
           1,
           1,
           null
@@ -337,10 +341,40 @@
           1,
           1,
           1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/dannyramos/turing/2module/make_it_work/spec/projects/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           null
         ]
       }
     },
-    "timestamp": 1589496837
+    "timestamp": 1589560758
   }
 }

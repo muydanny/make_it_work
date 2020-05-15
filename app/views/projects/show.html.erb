@@ -1,0 +1,7 @@
+<h1>Project's Name, Material, and Theme</h1>
+
+<h2><%= @project.name %></h2>
+<h2><%= @project.material %></h2>
+<% @challenges.each do |challenge| %>
+  <p><%= challenge.theme %></p>
+<% end %>
